@@ -1,0 +1,58 @@
+.img {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-weight: 900;
+    font-size: 40px;
+    margin: 0;
+    color: #b83822;
+}
+
+.orig_title {
+    font-size: 20px;
+    color: #d9553f;
+}
+
+.info_wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.production_countries, .genres, .production_companies {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.overview {
+    margin-top: 10px;
+}
+
+.production_countries:first-child {
+    margin-right: 10px;
+}
+
+.item {
+    margin-right: 10px;
+}
+
+.company {
+    background: rgba(174, 148, 121, 0.2);
+    border-radius: 4px;
+    padding: 8px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 0.8em;
+}
+
+.tagline {
+    color: #92c1c9;
+    font-weight: 900;
+    font-size: 1.1em;
+}
