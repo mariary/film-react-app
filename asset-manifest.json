@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/film-react-app/static/css/main.0008991c.chunk.css",
+    "main.js": "/film-react-app/static/js/main.3061434d.chunk.js",
+    "main.js.map": "/film-react-app/static/js/main.3061434d.chunk.js.map",
+    "runtime-main.js": "/film-react-app/static/js/runtime-main.cbb57498.js",
+    "runtime-main.js.map": "/film-react-app/static/js/runtime-main.cbb57498.js.map",
+    "static/js/2.2cf650ff.chunk.js": "/film-react-app/static/js/2.2cf650ff.chunk.js",
+    "static/js/2.2cf650ff.chunk.js.map": "/film-react-app/static/js/2.2cf650ff.chunk.js.map",
+    "static/js/3.19704078.chunk.js": "/film-react-app/static/js/3.19704078.chunk.js",
+    "static/js/3.19704078.chunk.js.map": "/film-react-app/static/js/3.19704078.chunk.js.map",
+    "index.html": "/film-react-app/index.html",
+    "static/css/main.0008991c.chunk.css.map": "/film-react-app/static/css/main.0008991c.chunk.css.map",
+    "static/js/2.2cf650ff.chunk.js.LICENSE.txt": "/film-react-app/static/js/2.2cf650ff.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/film-react-app/static/media/search.d3dd4f4a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbb57498.js",
+    "static/js/2.2cf650ff.chunk.js",
+    "static/css/main.0008991c.chunk.css",
+    "static/js/main.3061434d.chunk.js"
+  ]
+}
